@@ -1,4 +1,5 @@
-# 📚 Public Library
+# 📚 Library Management App
+
 
 ## 📖 Description
 
@@ -7,6 +8,7 @@ Public Library is a comprehensive library management application designed and de
 ## 🖼 Demo 
 
 ![Demo Screenshot](demo.png)
+
 
 ## ✨ Key Features
 
